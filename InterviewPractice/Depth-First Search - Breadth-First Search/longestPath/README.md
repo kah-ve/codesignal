@@ -1,20 +1,23 @@
+https://app.codesignal.com/interview-practice/task/iXJRYae6TBqc4ymFg
+
 Suppose we represent our file system as a string. For example, the string "user\n\tpictures\n\tdocuments\n\t\tnotes.txt" represents:
 
-user
-    pictures
-    documents
-        notes.txt    
+    user  
+        pictures  
+        documents  
+            notes.txt       
+        
 The directory user contains an empty sub-directory pictures and a sub-directory documents containing a file notes.txt.
 
 The string "user\n\tpictures\n\t\tphoto.png\n\t\tcamera\n\tdocuments\n\t\tlectures\n\t\t\tnotes.txt" represents:
 
-user
-    pictures
-        photo.png
-        camera
-    documents
-        lectures
-            notes.txt
+    user  
+        pictures  
+            photo.png  
+            camera  
+        documents  
+            lectures  
+                notes.txt  
 The directory user contains two sub-directories pictures and documents. pictures contains a file photo.png and an empty second-level sub-directory camera. documents contains a second-level sub-directory lectures containing a file notes.txt.
 
 We want to find the longest (as determined by the number of characters) absolute path to a file within our system. For example, in the second example above, the longest absolute path is "user/documents/lectures/notes.txt", and its length is 33 (not including the double quotes).
