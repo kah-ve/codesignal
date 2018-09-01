@@ -12,11 +12,13 @@ Note that kth smallest element means kth element in increasing order. See exampl
 Example
 
 For  
-   3  
- /   \  
-1     5  
-     / \  
-    4   6  
+
+
+                3
+           /         \
+          1           5
+                     /  \
+                    4    6
 
 the output should be
 kthSmallestInBST(t, k) = 5.
