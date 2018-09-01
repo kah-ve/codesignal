@@ -5,11 +5,10 @@ Given g and the index of a start vertex s, find the minimal distances between th
 Example
 
 For
-<code>
-g = [[-1, 3, 2],  
-     [2, -1, 0],  
-     [-1, 0, -1]]  
-</code>
+
+     g =  [[-1, 3, 2],      
+          [2, -1, 0],  
+          [-1, 0, -1]]  
 
 and s = 0, the output should be
 graphDistances(g, s) = [0, 2, 2].
