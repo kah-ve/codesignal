@@ -5,12 +5,12 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
 
 
 # [Interview Practice](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice)
-## [Arrays](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays)
-+ [firstDuplicate](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstDuplicate)
-+ [firstNotRepeatingCharacter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstNotRepeatingCharacter)
-+ [rotateImage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/rotateImage)
-+ [sudoku2](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/sudoku2)
-+ [isCryptSolution](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/isCryptSolution)
+  ### [Arrays](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays)
+  + [firstDuplicate](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstDuplicate)
+  + [firstNotRepeatingCharacter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstNotRepeatingCharacter)
+  + [rotateImage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/rotateImage)
+  + [sudoku2](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/sudoku2)
+  + [isCryptSolution](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/isCryptSolution)
 
 
 
