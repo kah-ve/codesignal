@@ -6,7 +6,7 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
 # Interview Practice
 ## 
 
-# Arcade(https://github.com/kah-ve/codesignal/tree/master/Arcade)
+# [Arcade](https://github.com/kah-ve/codesignal/tree/master/Arcade)
 + [checkPalindrome](https://github.com/kah-ve/codesignal/tree/master/Arcade/checkPalindrome)
 + [adjacentElementsProduct](https://github.com/kah-ve/codesignal/tree/master/Arcade/adjacentElementsProduct)
 + [shapeArea](https://github.com/kah-ve/codesignal/tree/master/Arcade/shapeArea)
