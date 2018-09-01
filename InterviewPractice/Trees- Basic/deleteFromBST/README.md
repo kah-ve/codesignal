@@ -1,4 +1,4 @@
-https://app.codesignal.com/interview-practice/task/oZXs4td52fsdWC9kR
+https://app.codesignal.com/interview-practice/task/oZXs4td52fsdWC9kR  
 A tree is considered a binary search tree (BST) if for each of its nodes the following is true:
 
 The left subtree of a node contains only nodes with keys less than the node's key.
