@@ -1,1 +1,1 @@
-Problems from Arcade Section of CodeSignal1
+Problems from Arcade Section of CodeSignal
