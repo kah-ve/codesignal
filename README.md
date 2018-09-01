@@ -21,6 +21,14 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [rearrangeLastN](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/rearrangeLastN)
   
   ### [Hash Tables](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic)
+  + [groupingDishes](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/groupingDishes)
+  + [areFollowingPatterns](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/areFollowingPatterns)
+  + [containsCloseNums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/containsCloseNums)
+  + [possibleSums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/possibleSums)
+  + [swapLexOrder](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/swapLexOrder)
+
+  
+  ### [Trees: Basic](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables)
   + [hasPathWithGivenSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/hasPathWithGivenSum)
   + [isTreeSymmetric](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/isTreeSymmetric)
   + [findProfession](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/findProfession)
@@ -29,15 +37,6 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [restoreBinaryTree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/restoreBinaryTree)
   + [findSubstrings](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/findSubstrings)
   + [deleteFromBST](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/deleteFromBST)
-
-  
-  ### [Trees: Basic](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables)
-  + [groupingDishes](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/groupingDishes)
-  + [areFollowingPatterns](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/areFollowingPatterns)
-  + [containsCloseNums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/containsCloseNums)
-  + [possibleSums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/possibleSums)
-  + [swapLexOrder](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/swapLexOrder)
-
 
 
 # [Arcade](https://github.com/kah-ve/codesignal/tree/master/Arcade)
