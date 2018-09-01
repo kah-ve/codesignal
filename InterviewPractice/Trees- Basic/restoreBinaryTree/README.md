@@ -10,7 +10,8 @@ For example, if tree looks like this:
    / \
   2   3
  /   / \
-4   5   6
+4   5   6  
+
 then the traversals will be as follows:
 
 Inorder traversal: [4, 2, 1, 5, 3, 6]
