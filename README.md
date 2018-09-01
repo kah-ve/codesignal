@@ -11,6 +11,11 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [rotateImage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/rotateImage)
   + [sudoku2](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/sudoku2)
   + [isCryptSolution](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/isCryptSolution)
+  
+  ### [LinkedLists](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists)
+  + [removeKFromList](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/removeKFromList)
+  + [isListPalindrome](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/isListPalindrome)
+
 
 
 
