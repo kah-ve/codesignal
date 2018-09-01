@@ -5,24 +5,28 @@ Return an array where each element is a list with the first element equal to the
 Example
 
 For
-  dishes = [["Salad", "Tomato", "Cucumber", "Salad", "Sauce"],
-            ["Pizza", "Tomato", "Sausage", "Sauce", "Dough"],
-            ["Quesadilla", "Chicken", "Cheese", "Sauce"],
-            ["Sandwich", "Salad", "Bread", "Tomato", "Cheese"]]
+  dishes = [  
+            ["Salad", "Tomato", "Cucumber", "Salad", "Sauce"],  
+            ["Pizza", "Tomato", "Sausage", "Sauce", "Dough"],  
+            ["Quesadilla", "Chicken", "Cheese", "Sauce"],  
+            ["Sandwich", "Salad", "Bread", "Tomato", "Cheese"]]  
 the output should be
-  groupingDishes(dishes) = [["Cheese", "Quesadilla", "Sandwich"],
-                            ["Salad", "Salad", "Sandwich"],
-                            ["Sauce", "Pizza", "Quesadilla", "Salad"],
-                            ["Tomato", "Pizza", "Salad", "Sandwich"]]
+  groupingDishes(dishes) = [  
+                            ["Cheese", "Quesadilla", "Sandwich"],  
+                            ["Salad", "Salad", "Sandwich"],  
+                            ["Sauce", "Pizza", "Quesadilla", "Salad"],  
+                            ["Tomato", "Pizza", "Salad", "Sandwich"]]  
 For
-  dishes = [["Pasta", "Tomato Sauce", "Onions", "Garlic"],
-            ["Chicken Curry", "Chicken", "Curry Sauce"],
-            ["Fried Rice", "Rice", "Onions", "Nuts"],
-            ["Salad", "Spinach", "Nuts"],
-            ["Sandwich", "Cheese", "Bread"],
-            ["Quesadilla", "Chicken", "Cheese"]]
+  dishes = [  
+            ["Pasta", "Tomato Sauce", "Onions", "Garlic"],  
+            ["Chicken Curry", "Chicken", "Curry Sauce"],  
+            ["Fried Rice", "Rice", "Onions", "Nuts"],  
+            ["Salad", "Spinach", "Nuts"],  
+            ["Sandwich", "Cheese", "Bread"],  
+            ["Quesadilla", "Chicken", "Cheese"]]  
 the output should be
-  groupingDishes(dishes) = [["Cheese", "Quesadilla", "Sandwich"],
-                            ["Chicken", "Chicken Curry", "Quesadilla"],
-                            ["Nuts", "Fried Rice", "Salad"],
+  groupingDishes(dishes) = [  
+                            ["Cheese", "Quesadilla", "Sandwich"],  
+                            ["Chicken", "Chicken Curry", "Quesadilla"],  
+                            ["Nuts", "Fried Rice", "Salad"],  
                           
