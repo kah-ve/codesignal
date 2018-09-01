@@ -6,9 +6,9 @@ Example
 
 For
 <code>
-g = [[-1, 3, 2],
-     [2, -1, 0],
-     [-1, 0, -1]]
+g = [[-1, 3, 2],  
+     [2, -1, 0],  
+     [-1, 0, -1]]  
 </code>
 
 and s = 0, the output should be
