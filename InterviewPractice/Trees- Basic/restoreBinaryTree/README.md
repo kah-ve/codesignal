@@ -8,6 +8,7 @@ For example, if tree looks like this:
 
 
     1  
+   / \ 
    / \  
   2   3  
  /   / \  
