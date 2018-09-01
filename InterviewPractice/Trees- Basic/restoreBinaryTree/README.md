@@ -5,13 +5,13 @@ Let's define inorder and preorder traversals of a binary tree as follows:
 Inorder traversal first visits the left subtree, then the root, then its right subtree;
 Preorder traversal first visits the root, then its left subtree, then its right subtree.
 For example, if tree looks like this:
-
-
-    1  
-   / \ 
+        
+    
+    1   
    / \  
-  2   3  
- /   / \  
+   / \      
+  2   3     
+ /   / \    
 4   5   6    
     
     
