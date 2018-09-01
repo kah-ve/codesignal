@@ -6,11 +6,13 @@ Inorder traversal first visits the left subtree, then the root, then its right s
 Preorder traversal first visits the root, then its left subtree, then its right subtree.
 For example, if tree looks like this:
 
-    1
-   / \
-  2   3
- /   / \
-4   5   6  
+
+    1  
+   / \  
+  2   3  
+ /   / \  
+4   5   6    
+    
     
 then the traversals will be as follows:
 
