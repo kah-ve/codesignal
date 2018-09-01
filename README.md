@@ -47,10 +47,25 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [countClouds](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/countClouds)
   + [nearestGreater](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/nearestGreater)
 
-  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues)
-  + [kthLargestElement](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/kthLargestElement)
- 
-
+  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs)
+  + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/hasDeadlock)
+  + [singlePointOfFailure](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/singlePointOfFailure)
+  + [feedingTime](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/feedingTime)
+  + [flightPlan](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/flightPlan)
+  + [currencyArbitrage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/currencyArbitrage)
+  
+  ### [Trees: Advanced](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced)
+  + [treeDiameter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/treeDiameter)
+  + [mostFrequentSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/mostFrequentSum)
+  + [networkWires](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/networkWires)
+  + [hierarchiesCount](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/hierarchiesCount)
+  
+  ### [Depth-First Search & Breadth-First Search](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search)
+  + [traverseTree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/traverseTree)
+  + [largestValuesInTreeRows](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/largestValuesInTreeRows)
+  + [digitTreeSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/digitTreeSum)
+  + [longestPath](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/longestPath)
+  + [graphDistances](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/graphDistances)
 
 # [Arcade](https://github.com/kah-ve/codesignal/tree/master/Arcade)
 + [checkPalindrome](https://github.com/kah-ve/codesignal/tree/master/Arcade/checkPalindrome)
