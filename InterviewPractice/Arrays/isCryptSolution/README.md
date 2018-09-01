@@ -9,7 +9,7 @@ Example
 For crypt = ["SEND", "MORE", "MONEY"] and
 
 solution = [  
-            ['O', '0'],
+            ['O', '0'],  
             ['M', '1'],  
             ['Y', '2'],  
             ['E', '5'],  
@@ -25,7 +25,7 @@ When you decrypt "SEND", "MORE", and "MONEY" using the mapping given in crypt, y
 For crypt = ["TEN", "TWO", "ONE"] and
 
 solution = [  
-            ['O', '1'],
+            ['O', '1'],  
             ['T', '0'],  
             ['W', '9'],  
             ['E', '5'],  
