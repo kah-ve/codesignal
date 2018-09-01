@@ -12,27 +12,11 @@ Note that kth smallest element means kth element in increasing order. See exampl
 Example
 
 For
+   3
+ /   \
+1     5
+     / \
+    4   6
 
-t = {
-    "value": 3,
-    "left": {
-        "value": 1,
-        "left": null,
-        "right": null
-    },
-    "right": {
-        "value": 5,
-        "left": {
-            "value": 4,
-            "left": null,
-            "right": null
-        },
-        "right": {
-            "value": 6,
-            "left": null,
-            "right": null
-        }
-    }
-}
-and k = 4, the output should be
+the output should be
 kthSmallestInBST(t, k) = 5.
