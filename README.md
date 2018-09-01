@@ -15,7 +15,10 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   ### [LinkedLists](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists)
   + [removeKFromList](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/removeKFromList)
   + [isListPalindrome](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/isListPalindrome)
-
+  + [addTwoHugeNumbers](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/addTwoHugeNumbers)
+  + [mergeTwoLinkedLists](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/mergeTwoLinkedLists)
+  + [reverseNodesInKGroups](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/reverseNodesInKGroups)
+  + [rearrangeLastN](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/rearrangeLastN)
 
 
 
