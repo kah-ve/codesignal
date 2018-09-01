@@ -9,8 +9,11 @@ Example
 For  
 t = {  
     "value": 1,  
+    
     "left": {  
+    
         "value": 0,  
+        
         "left": {  
             "value": 3,  
             "left": null,  
