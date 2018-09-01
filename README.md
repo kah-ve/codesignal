@@ -37,6 +37,19 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [restoreBinaryTree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/restoreBinaryTree)
   + [findSubstrings](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/findSubstrings)
   + [deleteFromBST](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/deleteFromBST)
+  
+  ### [Heaps, Stacks, Queues](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues)
+  + [kthLargestElement](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/kthLargestElement)
+  + [simplifyPath](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/simplifyPath)
+  + [decodeString](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/decodeString)
+  + [nextLarger](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/nextLarger)
+  + [minimumOnStack](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/minimumOnStack)
+  + [countClouds](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/countClouds)
+  + [nearestGreater](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/nearestGreater)
+
+  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues)
+  + [kthLargestElement](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/kthLargestElement)
+ 
 
 
 # [Arcade](https://github.com/kah-ve/codesignal/tree/master/Arcade)
