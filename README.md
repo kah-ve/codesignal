@@ -19,6 +19,24 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [mergeTwoLinkedLists](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/mergeTwoLinkedLists)
   + [reverseNodesInKGroups](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/reverseNodesInKGroups)
   + [rearrangeLastN](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/LinkedLists/rearrangeLastN)
+  
+  ### [Hash Tables](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic)
+  + [hasPathWithGivenSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/hasPathWithGivenSum)
+  + [isTreeSymmetric](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/isTreeSymmetric)
+  + [findProfession](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/findProfession)
+  + [kthSmallestInBST](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/kthSmallestInBST)
+  + [isSubtree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/isSubtree)
+  + [restoreBinaryTree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/restoreBinaryTree)
+  + [findSubstrings](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/findSubstrings)
+  + [deleteFromBST](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Basic/deleteFromBST)
+
+  
+  ### [Trees: Basic](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables)
+  + [groupingDishes](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/groupingDishes)
+  + [areFollowingPatterns](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/areFollowingPatterns)
+  + [containsCloseNums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/containsCloseNums)
+  + [possibleSums](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/possibleSums)
+  + [swapLexOrder](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Hash%20Tables/swapLexOrder)
 
 
 
