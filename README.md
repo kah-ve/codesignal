@@ -1,6 +1,19 @@
 ### CodeSignal
 
 These are solutions to the CodeSignal Interview Practice Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
+
+  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs)
+  + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/hasDeadlock)
+  + [singlePointOfFailure](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/singlePointOfFailure)
+  + [feedingTime](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/feedingTime)
+  + [flightPlan](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/flightPlan)
+  + [currencyArbitrage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/currencyArbitrage)
+  
+  ### [Trees: Advanced](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced)
+  + [treeDiameter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/treeDiameter)
+  + [mostFrequentSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/mostFrequentSum)
+  + [networkWires](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/networkWires)
+  + [hierarchiesCount](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/hierarchiesCount)
   ### [Arrays](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays)
   + [firstDuplicate](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstDuplicate)
   + [firstNotRepeatingCharacter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Arrays/firstNotRepeatingCharacter)
@@ -42,19 +55,6 @@ These are solutions to the CodeSignal Interview Practice Problems. Also some pro
   + [minimumOnStack](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/minimumOnStack)
   + [countClouds](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/countClouds)
   + [nearestGreater](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Heaps-%20Stacks-%20Queues/nearestGreater)
-
-  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs)
-  + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/hasDeadlock)
-  + [singlePointOfFailure](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/singlePointOfFailure)
-  + [feedingTime](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/feedingTime)
-  + [flightPlan](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/flightPlan)
-  + [currencyArbitrage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/currencyArbitrage)
-  
-  ### [Trees: Advanced](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced)
-  + [treeDiameter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/treeDiameter)
-  + [mostFrequentSum](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/mostFrequentSum)
-  + [networkWires](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/networkWires)
-  + [hierarchiesCount](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/hierarchiesCount)
   
   ### [Depth-First Search & Breadth-First Search](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search)
   + [traverseTree](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Depth-First%20Search%20-%20Breadth-First%20Search/traverseTree)
