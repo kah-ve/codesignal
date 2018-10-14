@@ -1,1 +1,1 @@
-Problems from Interview Practice section of CodeSignal
+Problems from Interview Practice section of CodeSignal.
