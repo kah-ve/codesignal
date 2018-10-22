@@ -2,12 +2,12 @@
 
 These are solutions to the CodeSignal Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
 
-  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs)
-  + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/hasDeadlock)
-  + [singlePointOfFailure](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/singlePointOfFailure)
-  + [feedingTime](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/feedingTime)
-  + [flightPlan](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/flightPlan)
-  + [currencyArbitrage](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/currencyArbitrage)
+  ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs)
+  + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/hasDeadlock)
+  + [singlePointOfFailure](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/singlePointOfFailure)
+  + [feedingTime](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/feedingTime)
+  + [flightPlan](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/flightPlan)
+  + [currencyArbitrage](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/currencyArbitrage)
   
   ### [Trees: Advanced](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced)
   + [treeDiameter](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Trees-%20Advanced/treeDiameter)
