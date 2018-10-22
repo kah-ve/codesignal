@@ -1,6 +1,6 @@
 ### CodeSignal
 
-These are solutions to the CodeSignal Interview Practice Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
+These are solutions to the CodeSignal Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
 
   ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs)
   + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/InterviewPractice/Graphs/hasDeadlock)
