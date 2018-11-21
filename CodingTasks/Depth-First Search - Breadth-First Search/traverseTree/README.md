@@ -34,7 +34,7 @@ For
 the output should be
 `traverseTree(t) = [1, 2, 4, 3, 5].`
 
-This t looks like this:
+This tree looks like this:
 
        1
      /   \
