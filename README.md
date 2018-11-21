@@ -1,7 +1,7 @@
 ### CodeSignal
 #### Coding Score: 765 (Top 5%)
 
-These are solutions to the CodeSignal Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
+These are solutions to the CodeSignal Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues.
 
   ### [Graphs](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs)
   + [hasDeadlock](https://github.com/kah-ve/codesignal/tree/master/CodingTasks/Graphs/hasDeadlock)
