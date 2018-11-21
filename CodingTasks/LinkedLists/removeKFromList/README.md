@@ -11,7 +11,7 @@ and
     k = 3, 
 the output should be
 
-removeKFromList(l, k) = [1, 2, 4, 5];
+        removeKFromList(l, k) = [1, 2, 4, 5];
 For 
 
     l = [1, 2, 3, 4, 5, 6, 7] 
