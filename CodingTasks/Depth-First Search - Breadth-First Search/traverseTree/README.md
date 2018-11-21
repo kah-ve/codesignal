@@ -1,5 +1,4 @@
-Note: Try to solve this task without using recursion, since this is what you'll be asked to do during an interview.
-
+# Problem
 Given a binary tree of integers t, return its node values in the following format:
 
 The first element should be the value of the tree root;
@@ -33,7 +32,7 @@ For
         }
     }
 the output should be
-traverseTree(t) = [1, 2, 4, 3, 5].
+`traverseTree(t) = [1, 2, 4, 3, 5].`
 
 This t looks like this:
 
@@ -42,3 +41,35 @@ This t looks like this:
     2     4
      \   /
       3 5
+# Solution
+```python
+# Definition for binary tree:
+# class Tree(object):
+#   def __init__(self, x):
+#     self.value = x
+#     self.left = None
+#     self.right = None
+def traverseTree(t):
+    
+    # add the root to the queue
+    # for each node, add its children to the queue from left to right
+    result = []
+    
+    queue = []
+    queue.insert(0, t)
+    
+    while queue:
+        elmnt = queue.pop()
+        
+        if elmnt:
+            result.append(elmnt.value)
+        else:
+            continue
+        
+        if elmnt.left:
+            queue.insert(0, elmnt.left)
+        if elmnt.right:
+            queue.insert(0, elmnt.right)
+    
+    return result
+```
