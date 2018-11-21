@@ -36,6 +36,9 @@ For
 the output should be
 
         sudoku2(grid) = false.
+        
+The given grid is not correct because there are two 1s in the second column. Each column, each row, and each 3 × 3 subgrid can only contain the numbers 1 through 9 one time.
+
 # Solution
 ```python
 def sudoku2(grid):
@@ -130,4 +133,3 @@ grid = [
 print (sudoku2(grid))
 ```
 
-The given grid is not correct because there are two 1s in the second column. Each column, each row, and each 3 × 3 subgrid can only contain the numbers 1 through 9 one time.
