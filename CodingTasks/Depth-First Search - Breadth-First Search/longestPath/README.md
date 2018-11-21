@@ -1,5 +1,4 @@
-https://app.codesignal.com/interview-practice/task/iXJRYae6TBqc4ymFg
-
+# Problem
 Suppose we represent our file system as a string. For example, the string "user\n\tpictures\n\tdocuments\n\t\tnotes.txt" represents:
 
     user  
@@ -32,3 +31,21 @@ For fileSystem = "user\f\tpictures\f\tdocuments\f\t\tnotes.txt", the output shou
 longestPath(fileSystem) = 24.
 
 The longest path is "user/documents/notes.txt", and it consists of 24 characters.
+# Solution
+```python
+def longestPath(fileSystem):
+    
+    maxlen = 0
+    pathDict = {0: 0}
+    
+    for file in fileSystem.split("\f"):
+        depth = file.count('\t')
+        name = len(file) - depth
+        if '.' in file:
+            # end of path
+            maxlen = max(maxlen, pathDict[depth] + name)
+        else:
+            # not at end of path, save into dictionary and account for forward slash
+            pathDict[depth+1] = pathDict[depth] + name + 1
+    return maxlen
+```
