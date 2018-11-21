@@ -5,7 +5,6 @@ Given a binary tree of integers, find the most frequent sum (or sums) of its sub
 
 # Solution
 ```python
-#
 # Definition for binary tree:
 # class Tree(object):
 #   def __init__(self, x):
