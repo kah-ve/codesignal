@@ -1,5 +1,5 @@
 ### CodeSignal
-#### Coding Score: 765 (Top 5%) - [profile](https://app.codesignal.com/profile/kah-ve)
+#### Coding Score: 765 (Top 5%) - <a href="https://app.codesignal.com/profile/kah-ve" target="blank">profile</a>
 
 These are solutions to the CodeSignal Problems. Also some problems from its Arcade. These problems address Data Structures including graphs, arrays, linked lists, hash tables, trees (basic and advanced), heaps, stacks, and queues. Topics such as Depth-First Search & Breadth-First Search are also covered.
 
