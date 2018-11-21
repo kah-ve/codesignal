@@ -5,7 +5,6 @@ Write a function that returns True if it's possible to make money by doing a ser
 
 # Solution
 ```python
-
 def currencyArbitrage(exchange):
     
     N = len(exchange) # number of currencies to check
@@ -23,6 +22,5 @@ def currencyArbitrage(exchange):
             # if a currency i -> i  has a value greater than 1, that means that a path was found
             # where arbitrage exists
             return True
-    return False
-    
+    return False    
 ```
