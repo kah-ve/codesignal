@@ -4,7 +4,8 @@ Sue is a network administrator who consults for companies that have massive Loca
 
 She labels the different network devices from 0 to n - 1. She keeps an n × n matrix connections, where connections[i][j] = 1 if there is a network cable directly connecting devices i and j, and 0 otherwise. Write a function that takes the matrix of connections, and returns the number of cables that are a single point of failure.
 
-    '''python
+'''python
+    
         def singlePointOfFailure(connections):    
             N = len(connections)
             time = 0 # will be used to assign ids to nodes
@@ -37,4 +38,5 @@ She labels the different network devices from 0 to n - 1. She keeps an n × n ma
                 dfs(i)
 
             return bridges
-    '''
+            
+'''
