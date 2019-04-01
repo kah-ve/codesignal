@@ -21,6 +21,10 @@ The best way is to remove wires 3 and 6 (1-based).
 # Solution
 ```python
 ## Solution Using Graphs
+## Real solution can be done in several lines using an MST
+## algorithm. Prims, Kruskals etc. This was my first attempt
+## naive solution.
+
 # transform into a graph 
 def createGraph(graph, wires):
     for eachedge in wires:
